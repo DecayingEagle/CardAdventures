@@ -1,0 +1,14 @@
+/home/lena/programming/c#/CardAdventures/CardAdventures/bin/Debug/net8.0/CardAdventures
+/home/lena/programming/c#/CardAdventures/CardAdventures/bin/Debug/net8.0/CardAdventures.deps.json
+/home/lena/programming/c#/CardAdventures/CardAdventures/bin/Debug/net8.0/CardAdventures.runtimeconfig.json
+/home/lena/programming/c#/CardAdventures/CardAdventures/bin/Debug/net8.0/CardAdventures.dll
+/home/lena/programming/c#/CardAdventures/CardAdventures/bin/Debug/net8.0/CardAdventures.pdb
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/CardAdventures.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/CardAdventures.AssemblyInfoInputs.cache
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/CardAdventures.AssemblyInfo.cs
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/CardAdventures.csproj.CoreCompileInputs.cache
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/CardAdventures.dll
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/refint/CardAdventures.dll
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/CardAdventures.pdb
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/CardAdventures.genruntimeconfig.cache
+/home/lena/programming/c#/CardAdventures/CardAdventures/obj/Debug/net8.0/ref/CardAdventures.dll
