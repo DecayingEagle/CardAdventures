@@ -1,3 +1,5 @@
+using CardAdventures.Enums;
+
 namespace CardAdventures;
 
 public class Deck {

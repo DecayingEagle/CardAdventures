@@ -156,4 +156,5 @@ To be decided
 ## Easter eggs
 * Faker mode
   * Instead of card battle you have to juggle between 4 different games 
-    (to be decided) that will be randomly selected.
+    (to be decided) that will be randomly selected, but u get a boost for 
+    something (to be decided).

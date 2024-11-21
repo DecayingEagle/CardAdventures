@@ -1,4 +1,4 @@
-namespace CardAdventures;
+namespace CardAdventures.Enums;
 
 public enum Rank {
   Two,
