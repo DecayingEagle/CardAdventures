@@ -143,9 +143,10 @@ More to be added
 ## Dungeon generation
 The dungeon will be randomly generated from a seed that can be set by the 
 user although this won't grant achievements nor unlocks. The dungeon 
-generation will be inspired by The Binding of Isaac. On each floor there 
-will always be a starting room, a boss room, a shop room and a treasure room. 
-The rest of the rooms will be normal rooms.
+generation will be inspired by The Binding of Isaac. Each room will be a 
+premade room that I or others have created. On each floor there will always 
+be a starting room, a boss room, a shop room and a treasure room. The rest 
+of the rooms will be normal rooms.
 
 ## Enemies
 To be decided
